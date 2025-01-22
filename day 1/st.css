@@ -1,0 +1,48 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+.header{
+    height: 30px;
+   
+    background-color: burlywood;
+   
+}
+.container {
+    display: flex;
+}
+.sidebar {
+    width: 300px;
+    height: 700px;
+    border: solid red;
+    margin: 10px;
+    margin-left: 0px;
+}
+.body {
+    border: solid red;
+    margin-left: 20px;
+    height: 700px;
+    width: 1155px;
+}
+.headerlinks{
+    position: relative;
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 50px;
+    border: solid;
+    
+    border-color:black;
+    margin-top: 100px;
+    padding: 1px;
+    background-color: aqua;
+    
+}
+.headerlinks:hover{
+    color: red;
+    font-size: larger;
+}
+.bodyhead{
+    margin: 30px;
+    margin-left: 70px;
+}
